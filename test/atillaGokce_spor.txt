@@ -1,0 +1,79 @@
+Yýllardan beri dinmeyen bu þikâyetleri artýk geliþen görüntü ve kayýt teknolojisi ile aþmak mümkün. Hali hazýrda bazý tenis þampiyonalarýnda kullanýlan bu teknoloji sayesinde þimdi hakemler daha az hata yapýyor, daha doðrusu hatasýný telafi etme þansý buluyor ve sporcular da daha az þikâyet edip, kendisine haksýzlýk yapýldýðýný düþünerek daha az moralleri bozuluyor.
+
+ 
+
+Tenis þampiyonalarýnda ‘Þahin Göz’ uygulamasýna baþlanýldýðýndan bu yana seyirciler de bu uygulamadan son derece memnun görünüyor zira seyirci de yanlýþ kararlardan çok olumsuz etkileniyor. Seyir keyfi kaçýyor. Futbol karþýlaþmalarýnda da hakemin ve futbolcularýn emin olmadýðý, hatta seyircilerin hoþnut olmadýðý kararlar ayný görüntü ve kayýt sistemleri ile yeniden ve hýzlý bir þekilde deðerlendirerek hakemin kararýný doðrulamasýný veya kararýný gözden geçirmesi saðlanabilir.
+
+ 
+
+Sistem Nasýl Çalýþacak?
+
+Bütün futbol kurallarýnýn yazýlýma dönüþtürülebilen kýsmý alýnarak bir futbol maçý yazýlýmý hazýrlanýr.
+
+Bu yazýlýmda aðýrlýkla ofsayt, taç, korner, aut, penaltý, kale içi gol çizgisi, ceza sahasý gibi çizgi ihlalleri kayýtlý görüntülerle kolayca tespit edilebilir.
+
+Kayýt yapan cihazýn monitöründe hemen yazýlýmýn yardýmý ile ceza oluþturan eylem ve cezanýn niteliði açýklayýcý bilgi olarak verilir. Örneðin, frikik, endirek serbest vuruþ, kale atýþý, korner, penaltý, taç atýþý vs gibi.
+
+Bu yöntemle yazýlýmdan gelen cezalarla hakem kararlarýnýn örtüþmesi maç sonrasý istatistiklere yansýmýþ olur.
+
+Bu kýyaslama hakemin maç karnesini oluþturur.
+
+Fakat en çok tepki çeken hatalar penaltý, sarý kart, kýrmýzý kart gerektiren davranýþlardýr.
+
+Eðer hakem olaya hem çok yakýn hem gördüðünden çok eminse maçý görüntü kaydýna bakmak için durdurmasýna gerek yoktur.
+
+Ancak hakem olayý yakýndan görememiþ veya olayýn süratle cereyan etmesinden dolayý fark edememiþse hemen maçý durdurur ve bir iþaretle görüntüyü kontrol edeceðini bildirir.
+
+Azami bir dakika gibi kýsýtlý bir süre içinde ya kendisi kayýtlarý kontrol eder ya da 4. hakem kayýt sonucunu hakeme bildirir.
+
+Genellikle bir kaç açýdan alýnan görüntülerde büyük bir olasýlýkla ceza gerektirecek olayýn detaylý bir kaydý olacaktýr.
+
+ 
+
+Ayrýca büyük bir ekranda ve TV’de olayýn tekrar görüntüleri verilerek hem stadyumdaki seyircilerin hem TV izleyen seyircilerin kararýn doðruluðu konusunda þüpheleri giderilmiþ olur.
+
+ 
+
+Eskiden görüntü ve kayýt teknolojileri ve yazýlýmlar bu kadar geliþmemiþti. Þimdi “High Definition” görüntü ve kayýt sistemleri ihtiyaç duyulan bütün detaylarý bir gözün bile takip edemeyeceði sürat ve netlikte kaydedebiliyor. Teknoloji artýk bu iþ için uygun hale gelmiþtir.
+
+ 
+
+Zaman geçirmeden bu projenin yazýlýmýndan baþlayarak hayata geçirilmesi gerekir.
+
+ 
+
+Yazýlým tamamlandýktan sonra FIFA’ya baþvurularak bu yönde (seçenekli) bir karar almasý saðlanýr. Yani bazý futbol karþýlaþmalarýnda (stadyumda böyle görüntü kaydetme yeteneði varsa) takýmlar anlaþarak böyle bir talepte bulunabilirler.
+
+ 
+
+Aksi takdirde daha uzunca bir süre neticede bizim gibi bir insan olan hakemler hata yapacak ve bu hatalara seyirciler de, oyuncular da katlanacak. Ardýndan da günlerce þikayet edeceðiz.
+
+ 
+
+Oysa çözüm sandýðýmýz kadar zor deðil.
+
+ 
+
+Ýþte en son geliþme.
+
+ 
+
+6 Temmuz tarihli Miliyet Gazetesinden
+
+Gol Çizgisi Teknolojisi Geliyor
+
+Topun çizgiyi geçip geçmediði tartýþmalarýna bir son vermesi beklenen gol çizgisi teknolojisine onay çýktý. Bu sene kullanýlmaya baþlanmasý bekleniyor.
+
+ 
+
+Futbolda yeni bir dönemin baþlangýcý için ilk adým atýldý. Son olarak Ukrayna-Polonya'da yapýlan Euro 2012 turnuvasýnda Ýngiltere ile Ukrayna arasýnda oynanan maçta tartýþma konusu olan topun kale çizgisini geçip geçmemesi artýk teknolojiyle sonuçlandýrýlacak.
+
+Uluslararasý Futbol Birliði Kurulu (IFAB) gerçekleþtirdiði toplantý sonucunda topun kale çizgisini geçip geçmediðini anlayan teknolojiye onay verdi. Bu onay sonrasýnda teknolojinin çalýþmalarýna hýz verildi. Sistem kale direklerine yerleþtirilen sensör ve çipli toptan oluþuyor.
+
+IFAB'ýn Hawk-Eye ve GoalRef olmak üzere iki teknolojiye onay verdiði ve bu iki firmanýn teknolojilerini geçerli kýlabilmek için þimdi UEFA'yabaþvurmalarý gerektiði belirtildi. Eðer bir aksilik çýkmazsa teknolojinin ilk defa FIFA Kulüpler Dünya Þampiyonasý'nda denenmesi bekleniyor.
+
+ 
+
+Sistemin nasýl iþlediði sorusuna gelirsek. 6 ila 8 arasýnda deðiþen kameralar top kaleye yaklaþtýðý andan itibaren saniyede 500 kare fotoðrafçekerek topun çizgiyi geçip geçmediðini hýzlý bir þekilde tarýyor. Gol olursa hakeme sinyal veriyor
+
+...Devamý: http://www.makalemarketi.com/spor-ve-rekreasyon/futbol/899-futbol-maclarinda-hakem-hatalari-nasil-azaltilir.html#ixzz2sf3mRS6s

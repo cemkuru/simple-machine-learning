@@ -1,0 +1,18 @@
+﻿Ortalamaya mahkûm olmak
+
+Mesela enflasyonun düşük gerçekleştiği bir ayı alıp 'Bakın son falanca yılın en düşük enflasyonu' diyebilirsiniz.
+
+Bir grafik vereyim; meramım daha iyi anlaşılacak. Hadi çok geriye gitmeyeyim; grafikte 2009’dan bu yana her ay gerçekleşen yıllık enflasyonlar var. Bir de yatay çizgi yer alıyor; tüm bu enflasyonların ortalaması olan yüzde 7,6’yı temsil ediyor. Çok açık biçimde görülüyor ki ortalama düzey, bir mıknatıs gibi tüketici enflasyonunu kendine çekiyor. Ortalamanın altında ya da üstünde gerçekleşen enflasyon kalıcı olmuyor; ortalama etrafında dalgalanıyor enflasyon. Bu tür değişkenlerin ilgili literatürde bir de teknik ismi var: ‘Ortalamaya dönen’ olarak adlandırılıyorlar. Bir başka alanın literatürüne dalarsanız ise karşınıza ‘atalet’ sözcüğü çıkıyor. 
+
+Ortalamadan hoşnutsanız bir problem yok; eninde sonunda hoşnut olduğunuz yere dönüyorsunuz. Ne âlâ. Hatta söz oyunları da yapabilirsiniz o ortalamadan şikâyet edenler için. Mesela enflasyonun düşük gerçekleştiği bir ayı alıp “Bakın son falanca yılın en düşük enflasyonu” diyebilirsiniz. Hele bu aralık ayı enflasyonu ise söz oyunu çok albenili olur. Zira ne insanoğlu baktığını ‘görmeyebilir’; üstelik aralık ayı yılın sonudur, yıl sonu enflasyonu da sıkça kullanılır.
+
+
+
+Oysa ortalamadan hoşnut değilseniz iş değişir. Görmek istediğiniz, yılın sonundaki enflasyonun kaç olduğu değil de enflasyonun düşme eğiliminde olup olmadığıdır. Dolayısıyla, ‘ortalamaya dönen’ hareketler söz konusu olduğunda, herhangi bir ayın enflasyonunun ne kadar düşük olduğunun önemi -bir durum dışında- yoktur. O durum da şudur: Enflasyonun ‘ortalamaya dönen’ niteliğini ortadan kaldıracak güçlü bir politika uygulanıyorsa, enflasyonun ortalamanın altında kaldığı dönemlerin kalıcı olması olasılığı güçlenir. 
+
+Her ay gerçekleşen yıllık enflasyonların 2012’de ortalaması yüzde 8.9 düzeyindeydi. 2013’ün ilk on ayındaki ortalama enflasyon ise yüzde 7.5 oldu. Önümüzdeki dönemde enflasyonun tekrar yükselme olasılığı kuvvetli. Birkaç nedenle: 
+Enflasyonun ‘ortalamaya dönen’ karakterini silecek bir ekonomi politikası yok ortada. 
+Mayıs ayından beri kurda gerçekleşen artış henüz tam anlamıyla enflasyona yansımadı. 
+
+Temel enflasyonun (I göstergesinin) ortalaması, tüketici enflasyonundan 2,3 puan daha düşük. Oysa nisan ayından bu yana temel enflasyon yükseliyor; ekimde ise yüzde 7,5 oldu. Bu da tüketici enflasyonuna ileride yukarıya doğru baskı olacak anlamına geliyor. 
+ABD Merkez Bankası’nın bu yılın sonunda ya da gelecek yılın ilk aylarında alması beklenen kararlar çerçevesinde döviz kurunda ana eğilim yukarıya olacak. 
