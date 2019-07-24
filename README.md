@@ -1,2 +1,2 @@
 # simple-machine-learning
-Basit makine öğrenmesi örneği
+Basit denetimli öğrenme örneği
